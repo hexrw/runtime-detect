@@ -1,0 +1,25 @@
+{
+    "name": "runtime-detect",
+    "version": "1.0.0",
+    "description": "Detect runtime environment. Supports Node.js, Deno, Bun and browsers.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "runtime", "detect", "browser", "node", "platform", "is browser",
+        "is node", "is deno", "runtime detector", "runtime detection",
+        "browser or node", "node or deno", "cross-runtime",
+        "cross-platform"
+    ],
+    "author": "hexrw (https://github.com/hexrw)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hexrw/runtime-detect/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hexrw/runtime-detect.git"
+    },
+    "homepage": "https://github.com/hexrw/runtime-detect#readme"
+}
